@@ -410,7 +410,7 @@ navbar__btn{
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ), 
-        url('/images/educator.svg');
+        url('images/educator.svg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -426,7 +426,7 @@ navbar__btn{
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ), 
-        url('/images/instruction.svg');
+        url('images/instruction.svg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -442,7 +442,7 @@ navbar__btn{
         rgba(0,0,0,0) 0%, 
         rgba(17,17,17,0.6) 100%
         ), 
-        url('/images/athletics.svg');
+        url('images/athletics.svg');
     background-size: cover;
     position: relative;
     color: #fff;
